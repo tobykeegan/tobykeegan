@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Toby!
 - 👀 I’m a Software Developer @ IBM UK
-- 🌱 I’m currently learning mainframe application development
+- 🌱 I’m currently an MQ for z/OS Developer, studying at Uni on the side
 - 💞️ I’m looking to collaborate on open-source mainframe projects
 - 📫 You can reach me at my email (toby.keegan@ibm.com) or [add me on Linkedin!](https://www.linkedin.com/in/toby-keegan-836483157)
 
